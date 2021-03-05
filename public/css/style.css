@@ -1,0 +1,9 @@
+.createNewProject{
+    width: fit-content;
+    background: black;
+}
+
+.createNewProject,h1{
+    color: white;
+    text-align: center;
+}
